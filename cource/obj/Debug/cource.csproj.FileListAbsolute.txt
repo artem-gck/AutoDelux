@@ -15,11 +15,6 @@ E:\BSUIR\4_sem\cource\cource\cource\obj\Debug\cource.exe
 E:\BSUIR\4_sem\cource\cource\cource\obj\Debug\cource.pdb
 E:\BSUIR\4_sem\cource\cource\cource\obj\Debug\App.baml
 E:\BSUIR\4_sem\cource\cource\cource\obj\Debug\Theme\MenuButtonTheme.baml
-e:\BSUIR\4_sem\cource\cource\cource\obj\Debug\MVVM\View\HomeView.g.cs
-e:\BSUIR\4_sem\cource\cource\cource\obj\Debug\MVVM\View\HomeView.baml
-e:\BSUIR\4_sem\cource\cource\cource\obj\Debug\GeneratedInternalTypeHelper.g.cs
-e:\BSUIR\4_sem\cource\cource\cource\obj\Debug\MVVM\View\DiscoveryView.g.cs
-e:\BSUIR\4_sem\cource\cource\cource\obj\Debug\MVVM\View\DiscoveryView.baml
 e:\BSUIR\4_sem\cource\cource\cource\obj\Debug\LoginWindow.g.cs
 e:\BSUIR\4_sem\cource\cource\cource\obj\Debug\LoginWindow.baml
 e:\BSUIR\4_sem\cource\cource\cource\obj\Debug\Theme\TextBoxSearchTheme.baml

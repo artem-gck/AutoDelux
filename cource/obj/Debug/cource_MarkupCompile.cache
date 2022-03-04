@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-e:\BSUIR\4_sem\cource\cource\cource\obj\Debug\
+d:\BSUIR\4_sem\cource\cource\cource\obj\Debug\
 cource
 none
 false
 DEBUG;TRACE
-e:\BSUIR\4_sem\cource\cource\cource\App.xaml
-101850715129
+d:\BSUIR\4_sem\cource\cource\cource\App.xaml
+82015546744
 
-23-169869197
-17-665597388
-AddEditWindow.xaml;LoginWindow.xaml;MainWindow.xaml;MVVM\View\DiscoveryView.xaml;MVVM\View\HomeView.xaml;Theme\SwitchButtonTheme.xaml;Theme\MenuButtonTheme.xaml;Theme\TextBoxPasswordTheme.xaml;Theme\TextBoxSearchTheme.xaml;Theme\TextBoxLoginTheme.xaml;
+19-2136860869
+17-1417887003
+AddEditWindow.xaml;LoginWindow.xaml;MainWindow.xaml;Theme\SwitchButtonTheme.xaml;Theme\MenuButtonTheme.xaml;Theme\TextBoxPasswordTheme.xaml;Theme\TextBoxSearchTheme.xaml;Theme\TextBoxLoginTheme.xaml;
 
-False
+True
 
